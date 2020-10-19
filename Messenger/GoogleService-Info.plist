@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1048372045055-nbuf8oris8mva3uci3fcssll84tdq5ja.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1048372045055-nbuf8oris8mva3uci3fcssll84tdq5ja</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpUsE62B12cwd1diNLC24ZcCQgbpQIJ6Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1048372045055</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.minhhoangjsc.quickchat</string>
+	<key>PROJECT_ID</key>
+	<string>quick-chat-1643d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quick-chat-1643d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1048372045055:ios:ddd5db22076fc93feed8ca</string>
+	<key>DATABASE_URL</key>
+	<string>https://quick-chat-1643d.firebaseio.com</string>
+</dict>
+</plist>
